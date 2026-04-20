@@ -1,30 +1,27 @@
-# PHP Library Management
+## Objective
 
-## Objectif
-
-Ce projet consiste à développer une application web permettant de gérer une bibliothèque (livres, utilisateurs, etc.), en utilisant PHP.
+This project consists of developing a web application to manage a library (books, users, etc.), using PHP.
 
 ---
 
-## Contexte
+## Context
 
-Ce projet a été réalisé dans le cadre de ma formation afin de découvrir le développement back-end avec PHP et la gestion de données.
+This project was carried out as part of my training in order to discover back-end development with PHP and data management.
 
-L’objectif était de créer une application dynamique capable de traiter et afficher des informations.
-
----
-
-## Fonctionnalités
-
-* Gestion des livres (ajout, affichage, suppression)
-* Affichage dynamique des données
-* Interaction avec une base de données
-* Interface utilisateur simple et fonctionnelle
+The objective was to create a dynamic application capable of processing and displaying information.
 
 ---
 
+## Features
 
-## Technologies utilisées
+* Book management (add, display, delete)
+* Dynamic display of data
+* Interaction with a database
+* Simple and functional user interface
+
+---
+
+## Technologies Used
 
 * PHP
 * HTML5
@@ -33,34 +30,34 @@ L’objectif était de créer une application dynamique capable de traiter et af
 
 ---
 
-## Compétences développées
+## Skills Developed
 
-* Développement back-end avec PHP
-* Manipulation de données (CRUD)
-* Connexion à une base de données
-* Structuration d’une application web
-
----
-
-## Ce que j’ai appris
-
-* Créer une application dynamique côté serveur
-* Gérer des données avec PHP
-* Comprendre le fonctionnement client / serveur
-* Structurer un projet back-end
+* Back-end development with PHP
+* Data manipulation (CRUD)
+* Database connection
+* Structuring a web application
 
 ---
 
-## Améliorations possibles
+## What I Learned
 
-* Ajout d’un système d’authentification
-* Amélioration de l’interface utilisateur
-* Sécurisation des données
-* Mise en place d’une architecture MVC
+* Creating a dynamic server-side application
+* Managing data with PHP
+* Understanding client / server functioning
+* Structuring a back-end project
 
 ---
 
-## Auteur
+## Possible Improvements
 
-Annabelle
-GitHub : https://github.com/Annabelle-m
+* Add an authentication system
+* Improve the user interface
+* Secure the data
+* Implement an MVC architecture
+
+---
+
+## Author
+
+Annabelle  
+GitHub: https://github.com/Annabelle-m
